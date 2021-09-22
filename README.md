@@ -21,7 +21,7 @@ Install necessary library files for machine learning : scikit learn, pandas, imb
  (2) Download the data set from ""doi:10.5281/zenodo.5504175""
  (3) Change anaconda virtual env. and open "jupyter notebook" from the command line
  (4) Upload jupyter notebook file named"Amharic_Topic_Modeling_for_Amharic_User_Generated_Texts_SEPT2021_MDPI.ipynb" from your browser of jupyter local server
- (5) Change the directory of the support code .py files such as "Amharic_stemmer_Tilahun_API.py" and "amharic_normalization_api.py" and data set of jupter notebook code by the directories of the coresponding files (in step 1) on which they are located on your computer
+ (5) Change the directory of the support code .py files such as "Amharic_stemmer_Tilahun_API.py" and "amharic_normalization_api.py" and data set(doi:10.5281/zenodo.5504175) of jupter notebook code by the directories of the coresponding files (in step 1) on which they are located on your computer
  (6) Enjoy testing it!
 
 
